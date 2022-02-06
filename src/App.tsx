@@ -1,5 +1,5 @@
 const App = () => {
-  return <div>hi {process.env.REACT_APP_FIREBASE_APIKEY}</div>;
+  return <div>hi your mum</div>;
 };
 
 export default App;
